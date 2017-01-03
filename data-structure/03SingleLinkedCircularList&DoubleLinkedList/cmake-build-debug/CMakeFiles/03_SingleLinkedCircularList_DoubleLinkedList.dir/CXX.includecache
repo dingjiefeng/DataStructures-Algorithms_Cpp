@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/datastruct/03_SingleLinkedCircularList&DoubleLinkedList/LinearList.h
+iostream
+-
+
+D:/datastruct/03_SingleLinkedCircularList&DoubleLinkedList/SingleLinkedCircularList.h
+LinearList.h
+D:/datastruct/03_SingleLinkedCircularList&DoubleLinkedList/LinearList.h
+
+D:/datastruct/03_SingleLinkedCircularList&DoubleLinkedList/main.cpp
+iostream
+-
+SingleLinkedCircularList.h
+D:/datastruct/03_SingleLinkedCircularList&DoubleLinkedList/SingleLinkedCircularList.h
+
