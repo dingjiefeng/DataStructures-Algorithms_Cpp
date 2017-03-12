@@ -1,0 +1,3 @@
+D:/ClionProjects/horseImprove/cmake-build-debug/CMakeFiles/horseImprove.dir
+D:/ClionProjects/horseImprove/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/horseImprove/cmake-build-debug/CMakeFiles/rebuild_cache.dir
